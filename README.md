@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvazco
-- 👀 I’m interested in javascript front develops, blockchain and AI.
-- 🌱 I’m currently learning python for AI and machine learning.
-- 💞️ I’m looking to collaborate on Minsait México
+- 👀 I am interested in javascript, python, blockchain and AI developments.
+- 🌱 I’m currently learning python for AI, natural language processing, deep and machine learning.
+- 💞️ I currently work at Minsait Mexico as a senior frontend developer.
 - 📫 How to reach me ...
 
 <!---
